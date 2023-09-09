@@ -25,7 +25,7 @@
 ```
       npm run dev
 ```
-#### Setup instruction  for tailwind
+### Setup instruction  for tailwind
 
      [tail wind  official instruction doc](https://tailwindcss.com/docs/installation)
 
