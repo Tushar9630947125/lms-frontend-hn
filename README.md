@@ -27,7 +27,7 @@
 ```
 ### Setup instruction  for tailwind
 
-     [tail wind  official instruction doc](https://tailwindcss.com/docs/installation)
+[tail wind  official instruction doc](https://tailwindcss.com/docs/installation)
 
 1. Install tailwindcss
 ```
